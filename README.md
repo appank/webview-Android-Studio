@@ -10,7 +10,7 @@ dependencies {
 **use-permission internet &write external storage**
 ```gradle
    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
 
 **orentation (cocok untuk webview & pdf)**
@@ -25,6 +25,5 @@ dependencies {
     }
 ```
 
+<i>cek youtube : "<a>https://youtu.be/xiDXTKhGgsI</a>"</i> 
   
-
-
